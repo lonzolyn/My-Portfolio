@@ -1,13 +1,15 @@
 .h1beauty
 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: normal;
-    color: blue;
+    font-style: italic;
+    color: red;
 }
 
 .div1
 {   
     background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black
 }
 .h2beauty
 {
@@ -15,4 +17,6 @@
     font-style: normal;
     color:blue
 }
+
+
  
